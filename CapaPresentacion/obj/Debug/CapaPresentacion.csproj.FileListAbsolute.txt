@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategorias.resources
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\David\source\repos\mantenimiento-productos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
